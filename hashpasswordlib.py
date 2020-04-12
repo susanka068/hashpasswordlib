@@ -63,7 +63,7 @@ def get_main_pwd(hashed_pwd):
     return newstr
 
 
-//how to call the functions and check them
+##how to call the functions and check them
 
 a_2 = my_hash_tool("weqtt())?>:+*&%##$^#$")
 a_1 = get_main_pwd(a_2)
